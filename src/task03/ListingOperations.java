@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class ListingOperations {
-
     private static ArrayList<String> array = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
 

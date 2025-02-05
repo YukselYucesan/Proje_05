@@ -8,6 +8,7 @@ public class Library {
     private static Scanner readInt=new Scanner(System.in);
     private static Scanner readStr=new Scanner(System.in);
     private static HashMap<String,String>library=new HashMap<>();
+
     public static void main(String[] args) {
         int number=0;
         do {

@@ -7,6 +7,7 @@ public class PasswordManager {
     private static Scanner readInt=new Scanner(System.in);
     private static Scanner readStr=new Scanner(System.in);
     private static HashMap<String,HashMap<String,String>> passwords = new HashMap<>();
+
     public static void main(String[] args) {
         int choose=0;
         do {
